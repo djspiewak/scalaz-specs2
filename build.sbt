@@ -44,3 +44,5 @@ TypelevelKeys.githubDevs ++= Seq(
 typelevelBuildInfoSettings
 
 buildInfoPackage := "org.specs2.scalaz"
+
+bintraySettings
